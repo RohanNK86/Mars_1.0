@@ -1,0 +1,5 @@
+{
+  "name": "Red Planet Explorer",
+  "description": "An interactive, high-fidelity 3D visualization of Mars featuring real-time orbital mechanics, rover tracking, and AI-powered geological insights.",
+  "requestFramePermissions": []
+}
